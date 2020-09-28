@@ -6,7 +6,8 @@ package practies;
 	{
 		int a = 5;
 		double b = 10;
-		System.out.println(a+b);//commednt
+		System.out.println("Sum = "+a+b);//commednt
+		
 	}
 	
 
